@@ -23,6 +23,8 @@ Library-Management-System/
 
 │
 
+├── .gitignore
+
 ├── Book.java
 
 ├── Student.java
