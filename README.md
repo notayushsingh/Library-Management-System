@@ -66,7 +66,7 @@ Library-Management-System/
 
 ## 🔮 Future Improvements
 
-- File handling for permanent book storage.
+- Improved UI with JSON.
 - Issue and return book functionality.
 - Student registration and management.
 - Duplicate Book ID validation.
@@ -79,5 +79,3 @@ This is a personal learning project developed to strengthen my Java programming 
 More features and improvements will be added as the project evolves.
 
 ---
-
-Made with ☕ and Java.
