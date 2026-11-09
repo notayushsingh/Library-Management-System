@@ -78,4 +78,8 @@ This is a personal learning project developed to strengthen my Java programming 
 
 More features and improvements will be added as the project evolves.
 
+## LICENSE
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ---
